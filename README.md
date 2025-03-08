@@ -21,7 +21,7 @@
 # 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://github.com/ZeB-ZuA" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linked-in-alt.svg" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sebastian-sua-b72b8a285/" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/linked-in-alt.svg" height="40" width="40" /></a>
   <a href="mailto:sebastiansua90@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" height="40" width="40" /></a>
   <a href="https://wa.me/qr/GREMKQTQG74EO1" target="_blank"><img align="center" src="https://github.com/gautamprajapat8/Public_Icon/blob/main/Social/whatsapp.svg" height="40" width="40" /></a>
 
